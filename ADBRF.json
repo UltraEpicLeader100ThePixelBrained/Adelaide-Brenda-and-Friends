@@ -1,0 +1,17 @@
+{
+  "id": "ADBRF",
+  "name": "Adelaide Brenda & Friends",
+  "author": [
+    "UltraEpicLeader100"
+  ],
+  "description": "It's meant to serve as an expansion to Pokerholm but it has enough content to stand on it's own. (Hopefully)\n\nDisclaimer: Not all planned content is present in this build and not every part of content of the mod actually functions in this build.",
+  "prefix": "adelmod",
+  "main_file": "main.lua",
+  "version": "0.4.0.1-AFD.trol",
+  "priority": -69,
+  "badge_colour": "fc0fc0",
+  "badge_text_colour": "4f084f",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
