@@ -13,7 +13,7 @@ SMODS.Joker{ --Justice League x RWBY: Super Heroes & Huntsmen
             [3] = '{C:inactive}Feed it your soul...{}'
         },
         ['unlock'] = {
-            [1] = 'Unlocked by default.'
+            [1] = 'Discard {C:red}666{} hands'
         }
     },
     pos = {
@@ -29,7 +29,7 @@ SMODS.Joker{ --Justice League x RWBY: Super Heroes & Huntsmen
     blueprint_compat = true,
     eternal_compat = true,
     perishable_compat = true,
-    unlocked = true,
+    unlocked = false,
     discovered = false,
     atlas = 'CustomJokers',
     dependencies = {"kino"},
@@ -60,5 +60,19 @@ SMODS.Joker{ --Justice League x RWBY: Super Heroes & Huntsmen
                 end
             }
         end
+    end,
+    check_for_unlock = function(self,args)
+        if args.type == "discard_custom" then
+            local count = 0
+            for i = 1, #args.cards do
+                if true then
+                    count = count + 1
+                end
+            end
+            if count == to_big(666) then
+                return true
+            end
+        end
+        return false
     end
 }

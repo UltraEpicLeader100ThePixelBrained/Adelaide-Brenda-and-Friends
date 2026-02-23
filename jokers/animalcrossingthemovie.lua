@@ -9,10 +9,10 @@ SMODS.Joker{ --Animal Crossing: The Movie
     loc_txt = {
         ['name'] = 'Animal Crossing: The Movie',
         ['text'] = {
-            [1] = 'Sell this joker to gain {C:gold}$30{}'
+            [1] = 'Sell this joker to gain {C:money}$30{}'
         },
         ['unlock'] = {
-            [1] = 'Unlocked by default.'
+            [1] = 'Spend {C:money}$30{} in total'
         }
     },
     pos = {
@@ -28,7 +28,7 @@ SMODS.Joker{ --Animal Crossing: The Movie
     blueprint_compat = true,
     eternal_compat = false,
     perishable_compat = false,
-    unlocked = true,
+    unlocked = false,
     discovered = false,
     atlas = 'CustomJokers',
     dependencies = {"kino"},
@@ -49,5 +49,12 @@ SMODS.Joker{ --Animal Crossing: The Movie
                 end
             }
         end
+    end,
+    check_for_unlock = function(self,args)
+        if args.type == "career_stat" then
+            local count = 0
+            return G.PROFILES[G.SETTINGS.profile].career_stats.c_shop_dollars_spent == to_big(30)
+        end
+        return false
     end
 }

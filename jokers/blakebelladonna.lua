@@ -11,7 +11,7 @@ SMODS.Joker{ --Famine
             [1] = 'A {C:blue}custom{} joker with {C:red}unique{} effects.'
         },
         ['unlock'] = {
-            [1] = 'Unlocked by default.'
+            [1] = 'A starving demon who feasts upon flesh summoned via dark magic.'
         }
     },
     pos = {
@@ -27,7 +27,7 @@ SMODS.Joker{ --Famine
     blueprint_compat = false,
     eternal_compat = true,
     perishable_compat = false,
-    unlocked = false,
+    unlocked = true,
     discovered = false,
     atlas = 'CustomJokers',
     dependencies = {"kino"},
@@ -35,8 +35,8 @@ SMODS.Joker{ --Famine
     in_pool = function(self, args)
         return (
             not args 
-            or args.source ~= 'sho' 
-            or args.source == 'buf' or args.source == 'jud' or args.source == 'rif' or args.source == 'rta' or args.source == 'sou' or args.source == 'uta' or args.source == 'wra'
+            or args.source ~= 'sho' and args.source ~= 'buf' and args.source ~= 'jud' 
+            or args.source == 'rif' or args.source == 'rta' or args.source == 'sou' or args.source == 'uta' or args.source == 'wra'
         )
         and true
     end
