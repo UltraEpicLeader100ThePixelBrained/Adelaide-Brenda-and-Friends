@@ -15,7 +15,7 @@ SMODS.Joker{ --No mod for you
         }
     },
     pos = {
-        x = 0,
+        x = 1,
         y = 7
     },
     display_size = {
@@ -43,44 +43,30 @@ SMODS.Joker{ --No mod for you
     calculate = function(self, card, context)
         if context.before and context.cardarea == G.jokers  then
             if love.system.getOS() == "Android" then
-                G.E_MANAGER:add_event(Event({
-                    func = function()
-                        play_sound("adelmod_nope")
-                        SMODS.calculate_effect({message = "Nope!"}, card)
-                        return true
-                    end,
-                }))
                 error("Save the modding for PC.")
             elseif love.system.getOS() == "iOS" then
-                G.E_MANAGER:add_event(Event({
-                    func = function()
-                        play_sound("adelmod_nope")
-                        SMODS.calculate_effect({message = "Nope!"}, card)
-                        return true
-                    end,
-                }))
                 error("Save the modding for PC.")
             elseif love.system.getOS() == "Windows" then
                 G.E_MANAGER:add_event(Event({
                     func = function()
-                        play_sound("adelmod_good")
-                        SMODS.calculate_effect({message = "Safe!"}, card)
+                        play_sound("")
+                        
                         return true
                     end,
                 }))
             elseif love.system.getOS() == "Linux" then
                 G.E_MANAGER:add_event(Event({
                     func = function()
-                        play_sound("adelmod_good")
-                        SMODS.calculate_effect({message = "Safe!"}, card)
+                        play_sound("")
+                        
                         return true
                     end,
                 }))
             elseif love.system.getOS() == "OS X" then
                 G.E_MANAGER:add_event(Event({
                     func = function()
-                        play_sound("adelmod_good")
-                        SMODS.calculate_effect({message = "Safe!"}, card)
+                        play_sound("")
+                        
                         return true
                     end,
                 }))

@@ -32,7 +32,7 @@ SMODS.Joker{ --Forever Weed Brownie
     unlocked = true,
     discovered = false,
     atlas = 'CustomJokers',
-    pools = { ["adelmod_adelmod_jokers"] = true, ["adelmod_Food"] = true },
+    pools = { ["adelmod_adelmod_jokers"] = true },
     
     set_ability = function(self, card, initial)
         card:set_edition("e_polychrome", true)

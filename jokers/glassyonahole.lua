@@ -8,7 +8,7 @@ SMODS.Joker{ --Glassy Onahole
     loc_txt = {
         ['name'] = 'Glassy Onahole',
         ['text'] = {
-            [1] = 'Decrease the rank of scoring cards by 1.'
+            [1] = 'Decrease the rank of the highest ranked card in a hand by one.'
         },
         ['unlock'] = {
             [1] = 'Unlocked by default.'

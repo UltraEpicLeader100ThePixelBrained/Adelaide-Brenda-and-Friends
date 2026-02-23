@@ -15,7 +15,7 @@ SMODS.Joker{ --Ren Nishikinomiya
         }
     },
     pos = {
-        x = 8,
+        x = 9,
         y = 6
     },
     display_size = {
