@@ -15,7 +15,7 @@ SMODS.Joker{ --Death
         }
     },
     pos = {
-        x = 8,
+        x = 9,
         y = 5
     },
     display_size = {
@@ -27,7 +27,7 @@ SMODS.Joker{ --Death
     blueprint_compat = false,
     eternal_compat = true,
     perishable_compat = false,
-    unlocked = false,
+    unlocked = true,
     discovered = false,
     atlas = 'CustomJokers',
     dependencies = {"kino"},
