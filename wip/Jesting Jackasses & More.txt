@@ -1,0 +1,513 @@
+Jimbo's NES Collection (A Retake of Super Balatario Bros.) - It's a set of Jokers that let you play real NES games. Unlike the original this mod is a retake of Pausing won't kill you. Game Overs reset the gained bonuses so be careful! The games chosen are:
+Tetris: Gains +1 Mult for each line cleared.
+Mario Bros.: Gains +5 Chips per every 100 points gained.
+Galaga: Gains +5 Mult per every 100 points gained.
+Galaxian: Gains +10 Mult per every 100 points gained.
+Gaplus: Gains +100 Mult per every 100 points gained. 
+Pac-Man: 
+Ms. Pac-Man (Tengen): 
+Super Mario Bros.: Gains +10 Chips per every 100 points gained.
+Super Mario Bros. 3: Gains +100 Chips per every 100 points gained.
+Dig Dug: 
+Dig Dug II: 
+Balloon Fight: 
+City Connection: 
+Devil World: 
+Donkey Kong (The updated version that restored the missing 50m stage.): 
+Ice Climber: 
+Donkey Kong JR.: 
+Mappy: 
+Fantasy Zone (Sunsoft) : 
+Fantasy Zone II: The Tears of Opa Opa: 
+Mega Man: 
+Castlevania: 
+Gradius: 
+Alter-Ego: 
+Bombsweper: 
+Lawn Mower: 
+Yar's Revenge: 
+Action 52: Gives +52 Mult & +52 Chips... However if you find a way to crash Action 52, your run instantly Game Overs.
+
+Adelaide Brenda & Friends - Jokers, Consumables, & more themed around Adelaide Brenda, her friends, & her family as well as any cool ideas or funny as hell thing. Serves as a companion piece to Pokerholm (if it ever releases) but has enough shit in it to stand on it's own.
+
+Jokers
+Pitch Imperfect: Constantly messes with the game's sound pitch (which if it's tied to speed it'll get extra crazy and funny.) Rare Joker.
+Forever Weed Brownie: It polychromes your entire deck and all jokers present but becomes eternal upon being obtained and it also applies the polychrome effect to the entire screen. Common Joker.
+Furby: It's a joker that starts with +4 mult that gains +2 mult every round you survive... It doesn't SHUT THE HELL UP at all if you have Qualatro loaded. Uncommon Joker.
+Needle Cookie: Gain x2017 Mult but you have only one hand. "If you know, you know." Uncommon Joker.
+Washed Up Reality TV Star: Sets Money to 0 at the start of every ante. Common Joker.
+Housing Market: X8 Mult for every consecutive Full House. Resets if you play a hand that isn't a Full House. Rare Joker.
+Infinite Vending Machine: Randomly generates a negative Beverage Joker. Rare Joker. All possible vending: Diet Cola (Base Game),  Seltzer (Base Game), Fine Wine (Ortalab), Mystery Soda (Ortalab), Hot Chocolate (Ortalab), Mountain Dew (UNIK's Mod), Up & Go (UNIK's Mod), Hard Seltzer (The Cracker Pack), Milk Tea (Paperback), Ghost Cola (Paperback), B-Soda (Paperback), Cream Liqueur (Paperback), Champagne (Paperback), Coffee (Paperback), Pinot Noir (Paperback), Matcha (Paperback), We Are Healthy (Holotro), Opened Can of WellCheers (Lobotomy Corporation), Energy Drink (Artbox), Drink Me! (Sagatro), Tea (Sagatro), Liquid Death (Punchline), Eggnog (This very mod), Flask of Ichor (This very mod), Flask of Distilled Wisdom (This very mod), Cum Chalice (This very mod). Each Beverage has a 25% chance to be spawned. 
+Yang's Severed Arm (Crossmod with Aikiyori's Shenanagins) - Every scored card becomes gains the Burnt enhancement. Uncommon Joker.
+Smurf Joker: +40 Chips. Debuffs itself if you have a Snork Joker. Common Joker.
+Snork Joker: +4 Mult. Debuffs itself if you have a Smurf Joker. Common Joker.
+Bag O' Candy Bananas: +15 Mult. -3 Mult per round played. Common Joker.
+Glassy Onahole: Decrease the rank of the highest ranked card in a hand by one. Uncommon Joker. (You need to enable this one with the After Hours toggle in the settings.)
+Eggnog: This Beverage Joker loses 2 XMult per round. Starts with +10 XMult. Self Destructs once it's out of XMult to give. Common Joker.
+Flask of Ichor: Reduces Blind Requirements by 15% for 3 rounds... Self destructs when after the third round. (3 rounds remain...) Rare Joker.
+Flask of Distilled Wisdom: Doubles chips earned for 3 rounds. Self destructs when after the third round. (3 rounds remain) Uncommon Joker. 
+Sinister Fountain: When a hand is played, destroy all consumables and create consumables equal to the amount destroyed. Uncommon Joker. (Effect suggested by Tatsu)
+Cum Chalice: Loses -23 Mult every round. Starts with +69 Mult. (Current Mult remaining: 69) Uncommon Joker. (You need to enable this one with the After Hours toggle in the settings.)
+Challenger: Gains +40 Chips every time a Card or Joker is destroyed. (Currently +0 Chips) Rare Joker.
+Hammerspace Backpack: Gain 3 joker slots and 3 consumable slots. Rare Joker.
+Sports Almanac: Creates an extra tab in your deck that shows all of the cards that are coming up next. Uncommon Joker.
+Parademon: -4 Mult. Only appears as part of the Darkseid Finisher Blind.
+Guts: Gains +10 Mult & +100 Chips for every Steel, Gold, Silver (TOGA), Iron (TOGA), Bronze (TOGA) Card you have in your deck. Legendary Joker.
+Kirby: unsure yet. Legendary Joker. Art of the joker should be based on Minus8's Kirby design.
+Ranma: +16 Mult. +8 XMult if you have Splash in play. Legendary Joker. Art changes if Splash is in play.
+Fox (Fox In The 20th Century): This Joker gains X10 Mult per friend she has. Legendary Joker.
+Raven (Fox In The 20th Century): This Joker gains X20 Mult per friend she has. Legendary Joker.
+Sloth (Fox In The 20th Century): This Joker gains X15 Mult per friend she has. Legendary Joker.
+Dr. Eggman: Every scored card either becomes: Steel, Gold, Copper (Bunco), Sci-Fi (Kino), Brass (More Fluff), Rusty (Ortalab), Bronze (TOGA), Copper (TOGA), Electrum (TOGA), Iron (TOGA), Osmium (TOGA), Silver (TOGA), Tin (TOGA). Each metallic card has an equal chance of appearing. Legendary Joker. Activation text is "Roboticized!"
+Shang Tsung (Crossmod with Finity): Mimics the ability of a random joker every round. Showdown Joker. 
+Homelander (Crossmod with Finity): STILL does nothing. Showdown Joker.
+The Judge (Crossmod with Finity): Gains 5X Mult per defeated blind. (Currently 0X Mult) Resets if a blind is skipped. Showdown Joker.
+
+Pokémon Gen 1 Jokers
+Kotora (Crossmod with Pokermon): unsure yet. Electric type. Common Joker. (Evolves to Raitora after 3 rounds)
+Raitora (Crossmod with Pokermon): unsure yet. Electric type. Uncommon Joker.
+Mikon (Crossmod with Pokermon): 1 in 6 chance for each played 9 to create a Tarot card when scored. Baby Pokémon. Fire type. Common Joker. (Evolves to Vulpix after 2 rounds)
+Puchikoon (Crossmod with Pokermon): Gains +6 Chips if played hand contains a Straight. Baby Pokémon. Fire type. Common Joker. (Evolves to Ponyta after 2 rounds)
+Gorochu (Crossmod with Pokermon): +4 Mult for every $5 you have. (Currently +0 Mult) Electric Pokémon. Safari Pokémon. (Evolves from Raichu after 4 rounds)
+
+Pokémon Gen 2 Jokers
+Tanga (Crossmod with Pokermon): Played Wild cards give +5 Mult, +250 Chips, or $1.5. 1 in 8 chance for all three. Baby Pokémon. Grass type. Common Joker. (Evolves to Tangela after 1 round)
+Shibirefugu (Crossmod with Pokermon): +8 Hazards. Gain +50 Chips when an enhanced card is destroyed. Water type. Safari Pokémon. (Evolves from Qwilfish)
+Gyopin (Crossmod with Pokermon): Retrigger the first Gold card held in hand 1 time. Baby Pokémon. Water type. Common Joker. (Evolves to Goldeen after 1 round)
+Para (Crossmod with Pokermon): +0.5 Mult per played hand that contains a Two Pair. Baby Pokémon. Grass Type. Common Joker. (Evolves to Paras in 1 round)
+Animon (Crossmod with Pokermon): Volatile Right. Transforms into any Joker you currently have at the moment with a Colorless sticker at end of shop. Transforms back into Animon at the end of the next round. Safari Pokémon. (Evolves from Ditto if you use Metal Coat on it)
+Hinaazu (Crossmod with Pokermon): First 2 played face cards give +3 Mult when scored. Baby Pokémon. Colorless type. Common Joker. (Evolves to Doduo after 2 rounds)
+Manboo 1 (Crossmod with Pokermon): unsure yet. Water type. Common Joker. (Evolves to Ikari after 2 rounds)
+Ikari (Crossmod with Pokermon): unsure yet. Water type. Uncommon Joker. (Evolves to Gurotesu after 3 rounds)
+Gurotesu (Crossmod with Pokermon): unsure yet. Water type. Safari Pokémon.
+Konya (Crossmod with Pokermon): Earn $0.25 at end of round. The first successfully Lucky card trigger each round increases payout by $0.25. Baby Pokémon. Colorless type. Common Joker. (Evolves to Meowth at $0 / $2 payout) 
+Rinrin (Crossmod with Pokermon): unsure yet. Dark type. Uncommon Joker. (Evolves to Berurun after 2 rounds) Secret ability to disable Cerulean Bell.
+Berurun (Crossmod with Pokermon): unsure yet. Dark type. Rare Joker. Secret ability to disable Cerulean Bell.
+Pudi (Crossmod with Pokermon): +4 Mult if played hand contains a Flush. Baby Pokémon. Fire type. (Evolves to Growlithe after 2 rounds) 
+Bomushikaa (Crossmod with Pokermon): unsure yet. Fire type. Uncommon Joker.
+Norowara (Crossmod with Pokermon): Drains it's own sell value to give +4 Chips & +4 Mult. Common Joker. (Evolves to Kyonpan after 2 rounds)
+Kyonpan (Crossmod with Pokermon): Drains it's own sell value to give +8 Chips & +8 Mult. Common Joker.
+Wolfman (Crossmod with Pokermon): unsure yet. Water type. Rare Joker. (Evolves to Warwolf after 3 rounds)
+Warwolf (Crossmod with Pokermon): unsure yet. Water type. Safari Pokémon.
+
+Pokémon Gen 3 Jokers
+Boyatto (Crossmod with Pokermon): unsure yet. Water type. Rare Joker
+Toroika (Crossmod with Pokermon): unsure yet. Water type. Uncommon Joker.
+Makki (Crossmod with Pokermon): unsure yet. Colorless type. Common Joker
+Gyarubi (Crossmod with Pokermon): unsure yet. Grass type. Common Joker. (Evoles to Ryllidy after 2 rounds)
+Ryllidy (Crossmod with Pokermon): unsure yet. Grass type. Uncommon Joker.
+Monorabi (Crossmod with Pokermon): unsure yet. Colorless type. Common Joker.
+Arei (Crossmod with Pokermon): +12 Mult for each Water Joker you have. Water type. Rare Joker.
+Mossmy (Crossmod with Pokermon): unsure yet. Grass type. Common Joker. (Evolves to Kodomon with Thunder Stone)
+Kodomon (Crossmod with Pokermon): unsure yet. Electric type. Uncommon Joker
+Puchi (Crossmod with Pokermon): unsure yet. Grass type. Uncommon Joker. 
+Purun (Crossmod with Pokermon): unsure yet. Water type. Common Joker.
+Hakogame (Crossmod with Pokermon): Increases its own sell value by $1 at the end of each blind. Creates a Gift Card upon being sold or destroyed. Colorless type. Common Joker.
+Katakata (Crossmod with Pokermon): unsure yet. Psychic type. Uncommon Joker.
+Panpamu (Crossmod with Pokermon): unsure yet. Metal type. Rare Joker.
+Heppi (Crossmod with Pokermon): unsure yet. Dark type. Common Joker. (Evoles to Supanku after 2 rounds)
+Supanku (Crossmod with Pokermon): unsure yet. Dark type. Uncommon Joker.
+
+Bonus Pokémon Jokers
+Hisuian Pudi (Crossmod with Gem's Pokermon which is an addon for Pokermon.): +4 Mult if played hand contains a Flush or a Stone Card. Baby Pokémon. Earth type. Common Joker. (Evolves to Hisuian Growlithe after 3 rounds)
+Chillet: +10 Chips when played hand isn't the last played hand. (Last hand: [hand]). (Currently +0 Chips)
+
+Movie Jokers  (Crossmod with Balatro Goes Kino)
+The Adventures of Milo and Otis: unsure yet. Adventure/Comedy
+The Phantom Tollbooth: unsure yet. Family/Fantasy
+Happy Death Day: The ante resets if you die. Thriller
+The Transformers: The Movie: unsure yet. Animation/Adventure
+Gremlins 2: The New Batch: Unscored cards give +50 Chips for each Monster Card held in hand. Horror
+Inspector Gadget: FUCK DISNEY. Debuffs Jokers made by Disney to gain +4 Mult for each debuffed Disney Joker. Family
+Wizards: unsure yet. Animation/Fantasy/Sci-fi
+Love Live! The School Idol Movie: Gains +9 Mult for every Polychrome 9 in your deck. (Currently +0 Mult) Animation/Musical/Comedy The art of this joker randomly displays one of the 9 members of the idol group μ's.
+Yu-Gi-Oh! The Movie: Pyramid of Light: Gains +13 Chips for every Light Monster you have in play but removes all Light Monsters when this card is sold or destroyed. (Currently +0 Chips) Animation/Family/Fantasy (You need BOTH JoyousSpring & Balatro Goes Kino!)
+Akira: Animation/Action/Sci-fi.
+Lupin III: The Castle of Cagliostro: unsure yet. Animation/Adventure/Fantasy.
+Sailor Moon R: The Movie: unsure yet. Animation/Superhero.
+Psycho-Pass: The Movie: unsure yet. Animation/Crime/Action.
+Cowboy Bebop: The Movie: unsure yet. Animation/Crime/Action.
+Split Decision: Either get +2 Mult or X2 Mult on a fixed 50/50 chance. Drama
+Animal Crossing: The Movie: unsure yet. Animation/Family. The art is of Tom Nook.
+Paprika: Prevents Death if you have at least 1 Animation or Thriller Joker. Animation/Thriller/Sci-fi.  Common Joker.
+Justice League x RWBY: Super Heroes & Huntsmen: Spawns one of The Four Horsemen Of The Apocalypse at the start of each Ante. (Starts the next ante if you are in the middle of an ante upon getting this Joker). Animation/Superhero. The art is a more hellish looking Remant with a skull wearing Batman's cowl impaled on a pike with Superman's cape attached to the pike looking tattered like how it does on the cover of The Death of Superman hinting at the effect of the joker. Rare Joker.
+Sweet Tooth: unsure yet. Drama/Fantasy. The art is Gus from the show smiling with a look of genuine joy.
+Lucifer: unsure yet. Fantasy/Crime. The art is of Lucifer from the show with his eyes glowing gold.
+Star Trek: Starfleet Academy: +5 Mult for every planet you are holding onto.. Sci-Fi/Adventure. The art is of a Starfleet Academy badge.
+Emesis Blue: Prevents death before self destructing and swaps your jokers with different ones of equal value. Each swap has a chance of outright destroying the joker rather than swapping it out. Animation/Horror/Mystery
+Bible Black: unsure yet. Animation/Horror/Mystery (You need to enable this one with the After Hours toggle in the settings.).
+Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist: unsure yet. Animation/Comedy (You need to enable this one with the After Hours toggle in the settings.). The art for the joker is one of the panty mask wearing terroists from the show.
+Interspecies Reviewers: Gains +69 Chips for every Modded Joker you currently have in play. (Currently +0 Chips) Animation/Fantasy/Comedy Uncommon Joker. (You need to enable this one with the After Hours toggle in the settings.). 
+KILL la KILL: unsure yet. Animation/Action/Drama. (You need to enable this one with the After Hours toggle in the settings.). The art of the joker is Shadow The Hedgehog and Ryuko Matoi in the style of a king from a traditional set of playing cards.
+Is It Wrong to Try to Pick Up Girls in a Dungeon?: unsure yet. Animation/Romance/Adventure. (You need to enable this one with the After Hours toggle in the settings.). The art is of Hestia. Fixed 1/8192 chance for the art to be topless but it isn't listed on the joker's description.
+Rosario + Vampire: unsure yet. Animation/Fantasy/Romance. (You need to enable this one with the After Hours toggle in the settings.).
+Monster Musume: unsure yet. Animation/Romance/Comedy. (You need to enable this one with the After Hours toggle in the settings.). The art randomly picks one of the main monstergirls from the show when it shows up in shop and once you buy it it keeps the current art it's displaying until you sell it or it gets destroyed then it'll change art the next time you see it.
+
+Horsemen Of The Apocalypse - DO NOT COLLECT ALL 4! All other jokers except The Horsemen Of The Apocalypse will be erased and you'll instantly start a blind called "Starting The Apocoylpse" as a Superboss.
+Pestilence (Weiss Schnee): unsure yet. The art should make Weiss look like she had spent her final moments freezing to death before being resurrected as an ice monster.
+War (Yang Xaio Long): unsure yet. The art should show yang with a horned flaming skull for a head while she's holding up one of her gauntlets which has flesh and bones growing off it while you can see spikes growing off her shoulders.
+Famine (Blake Belladonna): unsure yet. The art should be of a more monsterous looking Blake Belladonna attempting to crawl out of the border of the card art while unhinging her jaws showing thousands of bright yellow eyes in the void that's inside her jaws while you can see shes also drooling hungrily.
+Death (Ruby Rose): unsure yet. the art should be based on https://www.deviantart.com/dishwasher1910/art/Grimmed-Rose-771669775 but the only difference is in the mod she's grinning ominiously and both eyes are open.
+
+HOLY SHIT! IT'S THE ACTUAL FUCKING CROSSMOD WITH POKERHOLM!!! (If you do not have Pokerholm loaded these jokers just won't show up at all.)
+Java: Gain an extra Discard. Gain TWO extra discards if Mal'va is in play. Has affection for Mal'va. Uncommon Joker.
+Mal'va: Gain an extra hand every round. Gain TWO extra hands if Java is in play. Has affection for Java. Uncommon Joker.
+Faustine: +49 Chips. Gain +8 XMult on your final hand. Has affection for Baphin & Aki. Common Joker.
+Baphin: Lowers Boss Blind requirements by 6%. Has affection for Faustine. Common Joker.
+Aki: Prevents Death if at least one card has a Seal or Sticker. Has affection for Faustine. Common Joker.
+Nikki Lom: At the end of shop generate a random consumable at the cost of $5. Has affection towards Nyanka Lee. Common Joker.
+Nyanka Lee (Joker) (This mod renames the Nyanka Lee consumable from Pokerholm to The Sorceress. You need the Blockbuster Spell Casting API for her to actually do her stuff.): When casting spells, upcast by one level. Spawns The Sorceress upon being obtained in the run. Has affection for Nikki Lom. Common Joker.
+Xenna: Once every round You can press Use on Xenna to gain 5% of the blind but she gains 10% of the blind's requirements during Boss Blinds.
+Ren (Crossmod with Balatro Goes Kino): Prevents Horror Cards from awakening. Common Joker.
+Baphin and Faustine's Child: +5 Hand Size. Uncommon Joker. Can only appear if Baphin and Faustine are in play.
+
+Monitors. There are also gold monitors that can be reused once per round but gold monitors have a low chance of appearing however a gold monitor is guaranteed if you use the Cursed Gold Dildo tarot card.
+Static: Does nothing. Animated texture.
+Half Ring: Gain +$5.
+Ring: Gain +$10.
+Multi-Ring: Gain +$25.
+Silver Ring: Gain +$50.
+Mystery Ring: Gives a random amount of Money.
+Red Ring: Lose -$10.
+Hyper Ring: Prevents Money loss for the next round.
+Power Sneakers: +120 Chips over a 30 second timer.
+Slowmo Boots: +60 Chips and reduces card selection by half (rounded down to the nearest full number) over a 30 second timer.
+!: 50-50 chance you either lose half of your money or double your current amount of money!
+Spikes: 50-50 chance it either disables The Needle or lose all of your money.
+S: If TOGA's Stuff is detected and Sonic from that mod is in play then transform him into Hyper Sonic. If TOGA's Stuff is not detected or it is and Sonic is not currently in play then just Gain +$50 instead. 
+Chaos Emerald (Crossmod with Akiyori's Shenanagins): Creates an Emerald. Plays the Chaos Emerald jingle.
+Clock (Crossmod with Kino): Disables The Beach That Makes You Old, Deckard Shaw, and other time mechanic oriented boss blinds.
+Goggles: Disables The Fish.
+Spring: unsure yet.
+Classic Shield: Prevents your Cards, Jokers, and Consumables from being debuffed in the next round.
+Aqua Shield: Disables The Water and creates Splash.
+Thunder Shield: unsure yet.
+Fire Shield: unsure yet. Also creates Burnt Joker.
+Ice Shield: unsure yet.
+Gold Shield: unsure yet.
+Orbinaut Shield: unsure yet.
+Whirlwind Shield: unsure yet.
+Force Shield: unsure yet.
+Armageddon Shield: Destroys the current boss blind as well as your current hand. Let's hope that you don't have any really valuable cards when using this.
+Elemental Shield: Combines the effects of Fire Shield & Aqua Shield.
+Attraction Shield: Each played hand and discard used in the next round gives you +$5.
+Command: Randomly gives you a shield. Each Shield has a 25% chance of being chosen.
+Invincibility: unsure yet.
+Star: Level up every poker hand by 1. (Needs Bonus Monitors toggled from the configurations)
+Extra Life: Prevents the next would-be Death.
+Teleport: Swaps Hands & Discards.
+Point: Gives +100 Chips.
+Small Score: Gives +1000 Chips.
+Big Score: Gives +10000 Chips.
+Shrink: 2X Base requirements but get double the reward money.
+Grow: Reduces base requirements by half but get half the reward money.
+Hand: Gain +1 Hand.
+Twister: Gain +1 Discard.
+Claw: Creates the last Joker sold or destroyed in the run.
+Adelaide: Sets money to $999 along with gaining +1 Hand and +1 Discard. (Needs Bonus Monitors toggled from the configurations)
+Eggman: Sets money to $0 along with losing a Hand and a Discard.
+Coin: Creates the last monitor used (Excluding Coin).
+Random: Randomly uses any of the monitors effects (Excluding itself).
+Template: "If you somehow made this useable just know it does nothing. It's meant to give modders a few pointers on what it is if they want to add their own monitors." - The Dev Team
+
+Tarots
+Dodge Viper Time Machine: Defeat the current blind and go back to an Ante of your choice. (Starts from Ante 0).
+Forced Feminization: Turns all Face Cards into Queens.
+Cursed Gold Dildo: Turns your entire hand into Gold Cards with Gold Stickers and ensures that the next monitor you obtain is a Golden Monitor. (You need to enable this one with the After Hours toggle in the settings.)
+Artificial Gravity: Flips all of your current hand, your jokers, and your consumables before flipping them back over. You gain +$5 for each flipped card.
+
+Vouchers
+Fairy Merchant: 
+Fairy Entrepreneur: 
+Chao Merchant: Monitors are 2X more like to appear.
+Chao Entrepreneur: Monitors are 4X more like to appear.
+
+Boss Blinds
+The Brainrot: 6 & 7 cards are destroyed after being scored. "Can we please get better memes?" 0.5X Base
+The Hater: ALL Modded Jokers are debuffed. "MODS ARE BAD!1!1!1!!!!!1!11!11!11111" 1X Base
+The Wendigo: All Vanilla Jokers are debuffed. "VANILLA IS BORING!1!1!1!!!!!1!11!11!11111" 1X Base
+The Pelican: Eats a random Joker every other hand. "Leading cause of disappearances on beaches." 2X Base
+The Prank: Attempting to disable this boss closes the game on you. "Prank 'em John!" 1X Base
+The Tetrimino: Clear 50 lines of Tetris. Each cleared line brings you closer to completing the blind. "Play Tetris, my friends." 1X Base.
+The Den: Beating this blind gives you a random foxgirl joker. 1X Base.
+Reimu Hakurei: All jokers from this mod are debuffed. "All yokai are stinky. Especially half ones." 2X Base. The only joker from this mod that is execmpt from being debuffed is Forever Weed Brownie.
+
+Showdown Blind/Final Boss Blind/Finisher Blinds
+Shang Tsung: Mimics a different Showdown Blind/Final Boss Blind/Finisher Blinds' effect every hand. "Your soul is mine!" (WARNING! The more mods you have, The harder Shang Tsung becomes.) 2X Base
+Homelander: ....Does nothing?! "The Boys is a dogshit series made out of spite for superheroes. Change my mind." 1X Base
+The Judge: Blind requirements go up for every skipped blind of the current run. "Hence nothing remains except for our regrets." 2X Base 
+Darkseid: Turns one of your jokers into a Parademon every hand. "Kneel Before DARKSEID!" 3X Base
+Rose: Eats all of your jokers. Each scored hand will make her spit a random joker back out. Fixed 1/10 chance for the spat up joker has a random Seal, Enhancement, & Edition. Digests a random eaten joker if you score two hands containing High Card and it won't be able to appear in the rest of the current run. "Probably the lizard that ate your waifus." 2X Base
+
+EX Binds (Crossmod with More Fluff)
+The Tetrimino DX: Clear 150 lines of Tetris. Each cleared line brings you closer to completing the blind. "YOU ARE GONNA PLAY TETRIS AND YOU ARE GONNA LIKE IT!" 1X Base.
+Paimon (Requires TOGA & More Fluff): Every other hand has her gunning after Sonic to eat him. You've got to drag her back to where the boss blind token should be. If she DOES eat Sonic then he won't appear for the rest of the run. 4X Base. You get 10 hands for the blind. 
+
+SUPERBOSS BLIND
+Starting The Apocoylpse: The ONLY jokers you are allowed to use are The Horsemen Of The Apocalypse. 6X Base. Getting all four Horsemen Of The Apocalypse will instantly bring you to this blind. Upon defeating this blind, the jokers that disappeared upon grabbing all four Horsemen Of The Apocalypse will be returned to you and the horsemen won't appear for the rest of the run. The background theme changes to Dancing Mad's 4th movement.
+
+Packs
+Omochao Pack: These come in Regular, Jumbo, & Mega varieties. They contain a monitor to use as a consumable.
+Otaku Pack: Choose 1 of up to 3 Animation Jokers
+
+Gameplay changes
+Madam Fluffy from Pokerholm gains a hidden ability. After finishing off The Pelican, Madam Fluffy will be debuffed for the next round as any Jokers that got eaten by The Pelican are returned to you while playing a sound effect from Mortal Kombat to imply Madam Fluffy tore The Pelican open before it could fuck off with the Jokers it ate.
+
+Stakes
+Championship Stake: Applies ALL stakes both vanilla and modded. [edition this text and make it move like a wave]GOOD LUCK![/style this text]
+
+Decks
+Gensokyoian Deck: 
+Chao Deck: Start with a random monitor.
+Real Life Deck: Jokers, Vouchers, Consumables (Excluding Planets), as well as Showdown & Boss Blinds are all forbidden from showing up in the run. Unlocked by finishing a run without any Jokers.
+
+Sleeves
+Gensokyoian Sleeve: Start with a random joker from this mod. If paired with the Gensokyoian Deck then you also start with a random consumable from this mod as well.
+Chao Sleeve: Start with a random monitor. If paired with Chao Sleeve then start with a Gold Monitor instead.
+Real Life Sleeve: Jokers, Vouchers, Consumables (Excluding Planets), as well as Showdown & Boss Blinds are all forbidden from showing up in the run. If paired with Real Life Deck then Editions, Seals, and Enhancements are also forbidden from appearing in the run. Unlocked via unlocking the Real Life Deck.
+
+Tags
+Youkai Tag: The next shop has a free Joker from this mod.
+Chao Tag: Immediately open a free Mega Omochao Pack.
+Gold Seal Tag: The next shop will have a Gold Seal card. (Ported from a demo version of the base game.)
+Enhanced Tag: The next shop will have a Enhanced card. (Ported from a demo version of the base game.)
+E-Tank: Restores Hands & Discards when you are out of hands and discards.
+
+Editions
+Sepia: Creates a random Tarot card when held at the end of a round.
+Ionized: Each scored card gets a random seal applied to it.
+
+Achievements
+Flawless Victory!: Defeat Shang Tsung in one hand.
+WHAT ARE YOU POSSIBLY DOING?!: Somehow lose to Homelander.
+Let me be judged accordingly...: Defeat The Judge without skipping any blinds.
+Balatro Origins: Use the Coin Monitor to create Random Monitor.
+“I have exorcised the demons. This house is clear.”: Defeat the Superboss! Good luck trying!
+The Ace of Balatro: Clear a run on Championship Stake.
+BANANA SLAMMA!: Get Gros Michale, Cavendish, Harambe's Chosen (You need the Harambe's Chosen mod), Bag O' Candy Bananas all in the same run.
+
+Configurations
+After Hours: Enables the raunchier Jokers. Default is On.
+Bonus Monitors: Enables the three test monitors. Default is Off.
+Monitor Usage animation: Toggles between either Vanilla (Acts like how using an item normally works in balatro), or Sonic (Animates like how breaking monitors is like in sonic games with the broken monitor sprite falling off the screen as it frees up a consumable slot.). Default is Sonic. This togle does not apply to gold monitors as the icon rises out of the tv and at the end of a round the screen will light back up displaying the icon it held before it was used.
+
+Malverk Texture Packs
+Beta Art: Ceratin jokers show earlier versions of their artwork for those that miss the look they had in earlier versions of this mod.
+
+Game Over quips:
+"Come and see." (1/6 game over lines for losing during "Starting The Apocoylpse")
+"AND NOW YOU WILL NEVER AWAKEN FROM THIS NIGHTMARE." (2/ 6 game over lines for losing during "Starting The Apocoylpse")
+"You're in our world now..." (3/6 game over lines for losing during "Starting The Apocoylpse")
+"You have been disconnected from your god. WE are your gods now." (4/ 6 game over lines for losing during "Starting The Apocoylpse")
+"Don't cry... The fun is only starting." (5/6 game over lines for losing during "Starting The Apocoylpse")
+"*the text is intentionally glitched out as an attempt to scare the player*" (6/6 game over lines for losing during "Starting The Apocoylpse")
+"Shoot! Sorry about running out of mana!" (Game overing with Nyanka in play)
+"I.. I wasn't strong enough..." (Game overing with Faustine in play)
+"What the hell was that?!" (Game overing with Baphin in play)
+"That just ruffles my feathers." (Game overing with Java in play)
+"...You lost already?" (Game overing with Mal'va in play)
+"*Sad awoo*" (Game overing with Ren in play)
+"I ran out of spell slots. My bad." (Game overing with Xenea in play)
+"I'd let you pay another way but the casino would have us both thrown out." (Game overing with Nikki Lom in play)
+
+Endless Game Over quips
+"About time. I was starting to grow a beard." (Game over in endless mode with Nyanka)
+"ZZZzzz..." (Game over in endless mode with Mal'va)
+"I think we've caused enough damage here for one day." (Game over in endless mode with Faustine)
+"Well that was pretty good of you." (Game over in endless mode with Java)
+"*Triumphant awoo*" (Game over in endless mode with Ren)
+"Well now you're just showing off." (Game over in endless mode with Xenea)
+"I think we've won enough chips to last the tavern for a while." (Game over in endless mode with Baphin)
+"This has given me new potion ideas!" (Game over in endless mode with Nikki Lom in play)
+"HELL IS THE DESTINATION FOR YOUR GREED!" (Game Over in Endless Mode against Starting The Apocoylpse)
+
+Sega Super Play - It's a mod adapting an old ass trading card game about Sega games into jokers for Balatro. Confused yet? The jokers belong to categories like Balatro Goes Kino. The art for these jokers should be the original box art (unless stated otherwise and not counting the character jokers:
+
+The Original Set - It's all of the original cards of the set of trading cards it's based on.
+Desert Strike:
+Gynoug:
+Thunder Force II:
+Zero Wing:
+Abrhams Battle Tank:
+Alisa Dragoon:
+Devil Crush MD (No way in hell am I using Dragon's Fury when the cooler name is RIGHT there.):
+F-22 Interceptor:
+LHX Attack Chopper:
+Crueball:
+Lotus Turbo Challenge:
+688 Attack Sub:
+Castle Of Illusion:
+World Of Illusion:
+Tale Spin:
+Ariel: The Little Mermaid:
+Flashback:
+Ecco The Dolphin: 
+Batman Returns
+Corporation: 
+Decap Attack: 
+Donald Duck In: Quack Shot: 
+Greendog: The Beached Surfer Dude!:
+Mega-Lo-Mania: 
+Kid Chamelon: 
+Phantasy Star II: 
+Robocod:
+Sonic The Hedgehog: 
+Sonic The Hedgehog 2:
+Spider-Man Vs The Kingpin: 
+Taz-Mania: 
+Toejam & Earl: 
+Wonderboy In Monster World: 
+Buck Rodgers: 
+Shadow Of The Beast II: 
+Indiana Jones And The Last Crusade: 
+Strider: 
+Double Dragon: 
+After Burner II: 
+E-Swat: City Under Siege: 
+Forgotten World: 
+Hellfire: 
+Flicky: 
+Galaxy Force: 
+Golden Axe: 
+Golden Axe II: 
+Marble Madness: 
+Pac-Mania: 
+Mercs: 
+Super Hang-On: 
+Ghouls N' Ghosts: 
+Toki Goin' Ape Spit:
+Shadow Dancer:  
+Altered Beast: 
+Streets Of Rage: 
+Streets Of Rage 2: 
+Revenge Of Shinobi: 
+Shinobi III: 
+Chakan: 
+Lemmings: 
+Block Out: 
+Klax: 
+John Madden's Football '93: 
+Buster Douglas Boxing: 
+Super Kick-off: 
+Aquatic Games: 
+Turbo Outrun: 
+California Games: 
+Cyberball: 
+Euro Club Soccer: 
+Road Rash: 
+Road Rash II: 
+Super Monaco GP II: 
+Joe Montana Sportstalk Football: 
+
+Bonus Round - It's a blend of Homebrew and games made after the trading card game's run finished. And Some that came before the TCG as well as Sega Channel stuff.
+Super Monaco GP: 
+Road Rash III: Tour De Force: 
+Streets Of Rage 3: 
+Golden Axe III: 
+Jewel Master: 
+Mrs. Pac-Man:
+Pac-Man 2: The New Adventures: 
+Ecco II: Tides Of Time: 
+Phantasy Star III: 
+Phantasy Star IV: Generations Of Doom: 
+Fantasy Zone:
+Super Fantasy Zone: 
+Puyo Puyo: 
+Puyo Puyo Tsu: 
+Sonic The Hedgehog 3:
+Sonic & Knuckles: ablity desu. There's a chance if you have both Sonic The Hedgehog 3 and Sonic & Knuckles, they'll be destroyed and you'll get Sonic 3 & Knuckles. 
+Sonic 3 & Knuckles: Combined effects of Sonic The Hedgehog 3 and Sonic & Knuckles
+Sonic 3 Movie Promo Cart:
+Sonic 3D Blast: Flickies Island: 
+Hellfire Saga: 
+Super Mario Bros.: 
+Toejam & Earl - Panic On Funkotron:
+Daffy Duck In Hollywood: 
+Xeno Crisis: 
+Darius: 
+Darius II: 
+Dick Tracy: 
+Mega Man The Wily Wars: 
+Mega Man The Sequel Wars: 
+Farming Simulator 16-Bit Edition: 
+Street Fighter II' Special Champion Edition: 
+The Flintstones: 
+Garfield Caught In The Act: 
+Alien Solider: 
+Gunstar Heroes: 
+Earthion: 
+Pier Solar and the Great Architects: 
+Shining Force: 
+Shining Force II: 
+Shining In The Dark: 
+Spiderman The Animated Series:
+Superman: 
+The Death and Return of Superman: 
+Batman The Video Game: 
+Batman: Return Of The Joker: 
+Captain Barrel: 
+Tanglewood: 
+Mega 3D Noah's Ark: This is a joke inclusion because funny.
+Mega Turrican Directors Cut: 
+Mickey Mania: 
+Tanzer: 
+Chip's Challenge: 
+City Connection: 
+Alien Cat 2:
+Little Medusa: 
+Castlevania Bloodlines: 
+Angry Birds: 
+Arkagis Revolution:
+Cave Story: 
+Final Fight MD: 
+Mega R-Type: 
+Metal Gear: 
+Action 52: This is a joke inclusion because funny.
+Alex Kidd In The Enchanted Castle: 
+Arcus Odyssey:
+Battle Golfer Yui: 
+Beyond Oasis: 
+Bomberman '93:
+Clue: 
+Monopoly: 
+Comix Zone: 
+Duke Nukem 3D:
+Dynamite Headdy: 
+Crack Down: 
+Mortal Kombat: 
+Mortal Kombat II: 
+Landstalker: 
+Aladdin: 
+The Lion King: 
+The Jungle Book: 
+Marvel Land:
+Dangerous Seed: 
+The New Zealand Story: 
+McDonald's Treasure Land Adventure:  
+Vectorman: 
+Vectorman 2: 
+
+Character Cards - These are the Legendary Jokers of this mod! You need the Spectral card "Blast Processing" to summon them.
+Joe Musashi: Legendary Joker. 
+Ecco: Legendary Joker.
+James Pond: Legendary Joker.
+Kid Chameleon: Legendary Joker.
+Sonic The Hedgehog: Legendary Joker.
+Miles "Tails" Prower: Legendary Joker.
+Wonder Boy: Legendary Joker.
+Blaze Fielding: Legendary Joker.
+Axel Stone: Legendary Joker.
+Adam Hunter: Legendary Joker.
+Max: Legendary Joker.
+Skate: Legendary Joker.
+Knuckles The Echidna: Legendary Joker.
+Mega Man: Gains +4 XMult upon defeating each Boss Blind. (Currently +0 XMult) Legendary Joker.
+
+Spectrals
+Blast Processing: Creates a Legendary Joker from this mod. "Genesis does!"
+
+Decks: 
+SEGA Deck: Start with a random joker from this mod.
+
+Sleeves:
+SEGA Sleeve: Start with a random joker from this mod. If paired with SEGA Deck you also start with Blast Processing.
