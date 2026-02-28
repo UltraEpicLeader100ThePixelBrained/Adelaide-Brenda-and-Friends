@@ -15,8 +15,8 @@ SMODS.Joker{ --Tentacle Monster
         }
     },
     pos = {
-        x = 4,
-        y = 7
+        x = 0,
+        y = 0
     },
     display_size = {
         w = 71 * 1, 
@@ -29,14 +29,14 @@ SMODS.Joker{ --Tentacle Monster
     perishable_compat = true,
     unlocked = true,
     discovered = true,
-    atlas = 'CustomJokers',
-    pools = { ["adelmod_adelmod_jokers"] = true },
+    atlas = 'Joker',
+    pools = { ["modprefix_adelmod_jokers"] = true },
     
     calculate = function(self, card, context)
         if context.selling_self  and not context.blueprint then
             G.E_MANAGER:add_event(Event({
                 func = function()
-                    play_sound("itsrapeoclock")
+                    play_sound("adelmod_itsrapeoclock")
                     SMODS.calculate_effect({message = "Its raping time!"}, card)
                     return true
                 end,
