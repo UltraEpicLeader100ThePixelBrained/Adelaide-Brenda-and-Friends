@@ -15,7 +15,7 @@ SMODS.Joker{ --Akito Yukurei
         }
     },
     pos = {
-        x = 7,
+        x = 8,
         y = 6
     },
     display_size = {

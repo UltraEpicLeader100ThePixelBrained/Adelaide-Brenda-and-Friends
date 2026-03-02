@@ -16,7 +16,7 @@ SMODS.Joker{ --Nyanka Lee
         }
     },
     pos = {
-        x = 5,
+        x = 6,
         y = 6
     },
     display_size = {

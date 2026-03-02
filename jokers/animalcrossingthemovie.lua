@@ -12,11 +12,11 @@ SMODS.Joker{ --Animal Crossing: The Movie
             [1] = 'Sell this joker to gain {C:gold}$30{}'
         },
         ['unlock'] = {
-            [1] = 'Buy {C:attention}30{} vouchers.'
+            [1] = 'Buy {C:attention}30{} Vouchers.'
         }
     },
     pos = {
-        x = 4,
+        x = 3,
         y = 5
     },
     display_size = {

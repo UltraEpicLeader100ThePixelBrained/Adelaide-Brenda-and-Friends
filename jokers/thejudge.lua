@@ -9,7 +9,7 @@ SMODS.Joker{ --The Judge
         ['name'] = 'The Judge',
         ['text'] = {
             [1] = 'Gains 5X Mult per defeated blind.',
-            [2] = '{C:inactive}(Currently{} {C:attention}0X{} {C:inactive}Mult){}',
+            [2] = '{C:inactive}(Currently{} {C:attention}#X{} {C:inactive}Mult){}',
             [3] = '{C:red}Resets if a blind is skipped.{}'
         },
         ['unlock'] = {

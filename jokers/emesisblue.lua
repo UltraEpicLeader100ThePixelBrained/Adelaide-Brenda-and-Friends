@@ -10,7 +10,7 @@ SMODS.Joker{ --Emesis Blue
         ['text'] = {
             [1] = 'Prevents death',
             [2] = 'Swaps your jokers with different ones of equal value.',
-            [3] = 'Each swap has a 1/6 chance of outright {C:red}destroying{} the joker rather than swapping it out.',
+            [3] = 'Each swap has a {C:uncommon}1/6{} chance of outright {C:red}destroying{} the joker rather than swapping it out.',
             [4] = '{C:red}Self destructs{}'
         },
         ['unlock'] = {
@@ -27,7 +27,7 @@ SMODS.Joker{ --Emesis Blue
     },
     cost = 20,
     rarity = 4,
-    blueprint_compat = true,
+    blueprint_compat = false,
     eternal_compat = true,
     perishable_compat = true,
     unlocked = true,

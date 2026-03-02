@@ -15,8 +15,8 @@ SMODS.Joker{ --Tentacle Monster
         }
     },
     pos = {
-        x = 0,
-        y = 0
+        x = 3,
+        y = 7
     },
     display_size = {
         w = 71 * 1, 
@@ -29,8 +29,8 @@ SMODS.Joker{ --Tentacle Monster
     perishable_compat = true,
     unlocked = true,
     discovered = true,
-    atlas = 'Joker',
-    pools = { ["modprefix_adelmod_jokers"] = true },
+    atlas = 'CustomJokers',
+    pools = { ["adelmod_adelmod_jokers"] = true },
     
     calculate = function(self, card, context)
         if context.selling_self  and not context.blueprint then

@@ -11,7 +11,7 @@ SMODS.Joker{ --Death
             [1] = 'A {C:blue}custom{} joker with {C:red}unique{} effects.'
         },
         ['unlock'] = {
-            [1] = 'The ruler of {C:red}HELL{} herself summoned via black magic.'
+            [1] = ''
         }
     },
     pos = {

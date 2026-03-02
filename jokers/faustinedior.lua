@@ -18,7 +18,7 @@ SMODS.Joker{ --Faustine Dior
         }
     },
     pos = {
-        x = 0,
+        x = 1,
         y = 6
     },
     display_size = {

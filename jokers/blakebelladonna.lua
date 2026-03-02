@@ -11,11 +11,11 @@ SMODS.Joker{ --Famine
             [1] = 'A {C:blue}custom{} joker with {C:red}unique{} effects.'
         },
         ['unlock'] = {
-            [1] = 'A starving demon summomned via dark magic.'
+            [1] = 'Unlocked by default.'
         }
     },
     pos = {
-        x = 8,
+        x = 7,
         y = 5
     },
     display_size = {
@@ -32,11 +32,15 @@ SMODS.Joker{ --Famine
     atlas = 'CustomJokers',
     dependencies = {"kino"},
     pools = { ["adelmod_adelmod_jokers"] = true, ["adelmod_adelmod_demons"] = true },
+    soul_pos = {
+        x = 8,
+        y = 5
+    },
     in_pool = function(self, args)
         return (
             not args 
-            or args.source ~= 'sho' and args.source ~= 'buf' and args.source ~= 'jud' 
-            or args.source == 'rif' or args.source == 'rta' or args.source == 'sou' or args.source == 'uta' or args.source == 'wra'
+            or args.source ~= 'sho' 
+            or args.source == 'buf' or args.source == 'jud' or args.source == 'rif' or args.source == 'rta' or args.source == 'sou' or args.source == 'uta' or args.source == 'wra'
         )
         and true
     end

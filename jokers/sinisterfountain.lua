@@ -16,8 +16,8 @@ SMODS.Joker{ --Sinister Fountain
         }
     },
     pos = {
-        x = 9,
-        y = 5
+        x = 0,
+        y = 6
     },
     display_size = {
         w = 71 * 1, 
