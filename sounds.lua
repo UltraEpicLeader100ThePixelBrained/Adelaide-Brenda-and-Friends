@@ -321,13 +321,6 @@ SMODS.Sound{
 }
 
 SMODS.Sound{
-    key="nope",
-    path="nope.ogg",
-    pitch=0.7,
-    volume=0.6,
-}
-
-SMODS.Sound{
     key="good",
     path="good.ogg",
     pitch=0.7,
@@ -335,15 +328,22 @@ SMODS.Sound{
 }
 
 SMODS.Sound{
-    key="etankget",
-    path="etankget.ogg",
+    key="nope",
+    path="nope.ogg",
     pitch=0.7,
     volume=0.6,
 }
 
 SMODS.Sound{
-    key="healed",
-    path="healed.ogg",
+    key="block_smash",
+    path="block_smash.ogg",
+    pitch=0.7,
+    volume=0.6,
+}
+
+SMODS.Sound{
+    key="itsrapeoclock",
+    path="itsrapeoclock.ogg",
     pitch=0.7,
     volume=0.6,
 }
