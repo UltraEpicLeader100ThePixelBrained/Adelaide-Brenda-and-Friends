@@ -2,7 +2,7 @@
 SMODS.Consumable {
     key = 'debugmode',
     set = 'Spectral',
-    pos = { x = 4, y = 0 },
+    pos = { x = 5, y = 0 },
     loc_txt = {
         name = 'Debug Mode',
         text = {
