@@ -347,3 +347,10 @@ SMODS.Sound{
     pitch=0.7,
     volume=0.6,
 }
+
+SMODS.Sound{
+    key="magikoopa_magic",
+    path="magikoopa_magic.ogg",
+    pitch=0.7,
+    volume=0.6,
+}
