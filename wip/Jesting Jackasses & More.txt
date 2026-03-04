@@ -116,7 +116,7 @@ Chillet: +10 Chips when played hand isn't the last played hand. (Last hand: [han
 Movie Jokers  (Crossmod with Balatro Goes Kino)
 The Adventures of Milo and Otis: unsure yet. Adventure/Comedy
 The Phantom Tollbooth: unsure yet. Family/Fantasy
-Happy Death Day: The ante resets if you die. Thriller
+Happy Death Day: The ante resets to 1 if you die. Thriller
 The Transformers: The Movie: unsure yet. Animation/Adventure
 Gremlins 2: The New Batch: Unscored cards give +50 Chips for each Monster Card held in hand. Horror
 Inspector Gadget: FUCK DISNEY. Debuffs Jokers made by Disney to gain +4 Mult for each debuffed Disney Joker. Family
@@ -218,10 +218,14 @@ Dodge Viper Time Machine: Defeat the current blind and go back to an Ante of you
 Forced Feminization: Turns all Face Cards into Queens.
 Cursed Gold Dildo: Turns your entire hand into Gold Cards with Gold Stickers and ensures that the next monitor you obtain is a Golden Monitor. (You need to enable this one with the After Hours toggle in the settings.)
 Artificial Gravity: Flips all of your current hand, your jokers, and your consumables before flipping them back over. You gain +$5 for each flipped card.
+Black Magic: Turns 2 selected cards into Brick Blocks.
+
+Spectrials
+Debug Mode: Creates a Monitor of your choice.
 
 Vouchers
-Fairy Merchant: 
-Fairy Entrepreneur: 
+Fairy Merchant: unsure yet.
+Fairy Entrepreneur: unsure yet.
 Chao Merchant: Monitors are 2X more like to appear.
 Chao Entrepreneur: Monitors are 4X more like to appear.
 
@@ -232,13 +236,13 @@ The Wendigo: All Vanilla Jokers are debuffed. "VANILLA IS BORING!1!1!1!!!!!1!11!
 The Pelican: Eats a random Joker every other hand. "Leading cause of disappearances on beaches." 2X Base
 The Prank: Attempting to disable this boss closes the game on you. "Prank 'em John!" 1X Base
 The Tetrimino: Clear 50 lines of Tetris. Each cleared line brings you closer to completing the blind. "Play Tetris, my friends." 1X Base.
-The Den: Beating this blind gives you a random foxgirl joker. 1X Base.
+The Den (Crossmod with Pokerholm): Beating this blind gives you a random kitsune joker. 1X Base.
 Reimu Hakurei: All jokers from this mod are debuffed. "All yokai are stinky. Especially half ones." 2X Base. The only joker from this mod that is execmpt from being debuffed is Forever Weed Brownie.
 
 Showdown Blind/Final Boss Blind/Finisher Blinds
 Shang Tsung: Mimics a different Showdown Blind/Final Boss Blind/Finisher Blinds' effect every hand. "Your soul is mine!" (WARNING! The more mods you have, The harder Shang Tsung becomes.) 2X Base
 Homelander: ....Does nothing?! "The Boys is a dogshit series made out of spite for superheroes. Change my mind." 1X Base
-The Judge: Blind requirements go up for every skipped blind of the current run. "Hence nothing remains except for our regrets." 2X Base 
+The Judge: Blind requirements go up for every skipped blind of the current run. "Hence nothing remains except for our regrets." 1+#X Base 
 Darkseid: Turns one of your jokers into a Parademon every hand. "Kneel Before DARKSEID!" 3X Base
 Rose: Eats all of your jokers. Each scored hand will make her spit a random joker back out. Fixed 1/10 chance for the spat up joker has a random Seal, Enhancement, & Edition. Digests a random eaten joker if you score two hands containing High Card and it won't be able to appear in the rest of the current run. "Probably the lizard that ate your waifus." 2X Base
 
@@ -247,7 +251,7 @@ The Tetrimino DX: Clear 150 lines of Tetris. Each cleared line brings you closer
 Paimon (Requires TOGA & More Fluff): Every other hand has her gunning after Sonic to eat him. You've got to drag her back to where the boss blind token should be. If she DOES eat Sonic then he won't appear for the rest of the run. 4X Base. You get 10 hands for the blind. 
 
 SUPERBOSS BLIND
-Starting The Apocoylpse: The ONLY jokers you are allowed to use are The Horsemen Of The Apocalypse. 6X Base. Getting all four Horsemen Of The Apocalypse will instantly bring you to this blind. Upon defeating this blind, the jokers that disappeared upon grabbing all four Horsemen Of The Apocalypse will be returned to you and the horsemen won't appear for the rest of the run. The background theme changes to Dancing Mad's 4th movement.
+Starting The Apocoylpse: The ONLY jokers you are allowed to use are The Horsemen Of The Apocalypse. 6X Base. Getting all four Horsemen Of The Apocalypse will instantly bring you to this blind. Upon defeating this blind, the jokers that disappeared upon grabbing all four Horsemen Of The Apocalypse will be returned to you and the horsemen won't appear for the rest of the run. The background theme changes to Dancing Mad's 4th movement mixed with Balatro's main theme.
 
 Packs
 Omochao Pack: These come in Regular, Jumbo, & Mega varieties. They contain a monitor to use as a consumable.
@@ -262,7 +266,7 @@ Championship Stake: Applies ALL stakes both vanilla and modded. [edition this te
 Decks
 Gensokyoian Deck: 
 Chao Deck: Start with a random monitor.
-Real Life Deck: Jokers, Vouchers, Consumables (Excluding Planets), as well as Showdown & Boss Blinds are all forbidden from showing up in the run. Unlocked by finishing a run without any Jokers.
+Real Life Deck: Jokers, Vouchers, Consumables (Excluding Planets), as well as Showdown & Boss Blinds are all forbidden from showing up in the run. Unlocked by finishing a run without holding any Jokers or consumables during the Showdown Blind.
 Mushroom Deck: Start with 52 Brick Blocks.
 Neo Silver Deck: Start with a random Joker and a random Consumable.
 
@@ -292,15 +296,12 @@ Let me be judged accordingly...: Defeat The Judge without skipping any blinds.
 Balatro Origins: Use the Coin Monitor to create Random Monitor.
 “I have exorcised the demons. This house is clear.”: Defeat the Superboss! Good luck trying!
 The Ace of Balatro: Clear a run on Championship Stake.
-BANANA SLAMMA!: Get Gros Michale, Cavendish, Harambe's Chosen (You need the Harambe's Chosen mod), Bag O' Candy Bananas all in the same run.
+BANANA SLAMMA!: Get Gros Michale, Cavendish, Harambe's Chosen (You need the Harambe's Chosen mod), Bag Of Candy Bananas all in the same run.
 
 Configurations
-After Hours: Enables the raunchier Jokers. Default is On.
+After Hours: Enables the raunchier content. Default is On.
 Bonus Monitors: Enables the three test monitors. Default is Off.
 Monitor Usage animation: Toggles between either Vanilla (Acts like how using an item normally works in balatro), or Sonic (Animates like how breaking monitors is like in sonic games with the broken monitor sprite falling off the screen as it frees up a consumable slot.). Default is Sonic. This togle does not apply to gold monitors as the icon rises out of the tv and at the end of a round the screen will light back up displaying the icon it held before it was used.
-
-Malverk Texture Packs
-Beta Art: Ceratin jokers show earlier versions of their artwork for those that miss the look they had in earlier versions of this mod.
 
 Game Over quips:
 "Come and see." (1/6 game over lines for losing during "Starting The Apocoylpse")
@@ -518,4 +519,5 @@ Decks:
 SEGA Deck: Start with a random joker from this mod.
 
 Sleeves:
+
 SEGA Sleeve: Start with a random joker from this mod. If paired with SEGA Deck you also start with Blast Processing.
