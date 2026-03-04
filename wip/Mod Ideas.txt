@@ -28,7 +28,7 @@ Lawn Mower:
 Yar's Revenge: 
 Action 52: Gives +52 Mult & +52 Chips... However if you find a way to crash Action 52, your run instantly Game Overs.
 
-Adelaide Brenda & Friends - Jokers, Consumables, & more themed around Adelaide Brenda, her friends, & her family as well as any cool ideas or funny as hell thing. Serves as a companion piece to Pokerholm (if it ever releases) but has enough shit in it to stand on it's own.
+Adelaide Brenda & Friends - Jokers, Consumables, & more themed around Adelaide Brenda, her friends, & her family as well as any cool ideas or funny as hell thing. Serves as a companion piece to Pokerholm (if it ever releases) but has enough shit in it to stand on it's own. (probably also the mod you're actually here for.)
 
 Jokers
 Pitch Imperfect: Constantly messes with the game's sound pitch (which if it's tied to speed it'll get extra crazy and funny.) Rare Joker.
@@ -298,6 +298,9 @@ Balatro Origins: Use the Coin Monitor to create Random Monitor.
 The Ace of Balatro: Clear a run on Championship Stake.
 BANANA SLAMMA!: Get Gros Michale, Cavendish, Harambe's Chosen (You need the Harambe's Chosen mod), Bag Of Candy Bananas all in the same run.
 
+Seals
+Super Mushroom Seal: Discard this card to draw 10.
+
 Configurations
 After Hours: Enables the raunchier content. Default is On.
 Bonus Monitors: Enables the three test monitors. Default is Off.
@@ -521,3 +524,4 @@ SEGA Deck: Start with a random joker from this mod.
 Sleeves:
 
 SEGA Sleeve: Start with a random joker from this mod. If paired with SEGA Deck you also start with Blast Processing.
+
