@@ -59,6 +59,7 @@ Fox (Fox In The 20th Century): This Joker gains X10 Mult per friend she has. Leg
 Raven (Fox In The 20th Century): This Joker gains X20 Mult per friend she has. Legendary Joker.
 Sloth (Fox In The 20th Century): This Joker gains X15 Mult per friend she has. Legendary Joker.
 Dr. Eggman: Every scored card either becomes: Steel, Gold, Copper (Bunco), Sci-Fi (Kino), Brass (More Fluff), Rusty (Ortalab), Bronze (TOGA), Copper (TOGA), Electrum (TOGA), Iron (TOGA), Osmium (TOGA), Silver (TOGA), Tin (TOGA). Each metallic card has an equal chance of appearing. Legendary Joker. Activation text is "Roboticized!"
+No mod for you: Crashes the game if you are running this mod on mobile because FUCK YOU. Legendary Joker.
 Shang Tsung (Crossmod with Finity): Mimics the ability of a random joker every round. Showdown Joker. 
 Homelander (Crossmod with Finity): STILL does nothing. Showdown Joker.
 The Judge (Crossmod with Finity): Gains 5X Mult per defeated blind. (Currently 0X Mult) Resets if a blind is skipped. Showdown Joker.
@@ -160,6 +161,8 @@ Nyanka Lee (Joker) (This mod renames the Nyanka Lee consumable from Pokerholm to
 Xenna: Once every round You can press Use on Xenna to gain 5% of the blind but she gains 10% of the blind's requirements during Boss Blinds.
 Ren (Crossmod with Balatro Goes Kino): Prevents Horror Cards from awakening. Common Joker.
 Baphin and Faustine's Child: +5 Hand Size. Uncommon Joker. Can only appear if Baphin and Faustine are in play.
+Skeleton Trio: X3 Mult. X6 Mult if Mal'va is in play. Has affection towards nobody.
+Tentacle Monster: You WILL die if you sell this joker. Has affection towards everyone.
 
 Monitors. There are also gold monitors that can be reused once per round but gold monitors have a low chance of appearing however a gold monitor is guaranteed if you use the Cursed Gold Dildo tarot card.
 Static: Does nothing. Animated texture.
@@ -260,6 +263,8 @@ Decks
 Gensokyoian Deck: 
 Chao Deck: Start with a random monitor.
 Real Life Deck: Jokers, Vouchers, Consumables (Excluding Planets), as well as Showdown & Boss Blinds are all forbidden from showing up in the run. Unlocked by finishing a run without any Jokers.
+Mushroom Deck: Start with 52 Brick Blocks.
+Neo Silver Deck: Start with a random Joker and a random Consumable.
 
 Sleeves
 Gensokyoian Sleeve: Start with a random joker from this mod. If paired with the Gensokyoian Deck then you also start with a random consumable from this mod as well.
@@ -272,6 +277,9 @@ Chao Tag: Immediately open a free Mega Omochao Pack.
 Gold Seal Tag: The next shop will have a Gold Seal card. (Ported from a demo version of the base game.)
 Enhanced Tag: The next shop will have a Enhanced card. (Ported from a demo version of the base game.)
 E-Tank: Restores Hands & Discards when you are out of hands and discards.
+
+Enhancements
+Brick Block: No suit or Rank. Gives +10 Chips, +5 Mult, & +$10. Self Destructs
 
 Editions
 Sepia: Creates a random Tarot card when held at the end of a round.
