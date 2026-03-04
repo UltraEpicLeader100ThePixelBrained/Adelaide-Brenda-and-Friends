@@ -16,7 +16,7 @@ SMODS.Joker{ --Baphin and Faustines Child
         }
     },
     pos = {
-        x = 2,
+        x = 4,
         y = 7
     },
     display_size = {

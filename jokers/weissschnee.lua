@@ -15,7 +15,7 @@ SMODS.Joker{ --Pestilence
         }
     },
     pos = {
-        x = 5,
+        x = 7,
         y = 5
     },
     display_size = {
@@ -27,7 +27,7 @@ SMODS.Joker{ --Pestilence
     blueprint_compat = false,
     eternal_compat = true,
     perishable_compat = false,
-    unlocked = false,
+    unlocked = true,
     discovered = false,
     atlas = 'CustomJokers',
     dependencies = {"kino"},

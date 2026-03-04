@@ -18,7 +18,7 @@ SMODS.Joker{ --Skeleton Trio
         }
     },
     pos = {
-        x = 1,
+        x = 3,
         y = 7
     },
     display_size = {

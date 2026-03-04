@@ -15,7 +15,7 @@ SMODS.Joker{ --Famine
         }
     },
     pos = {
-        x = 7,
+        x = 9,
         y = 5
     },
     display_size = {
@@ -33,8 +33,8 @@ SMODS.Joker{ --Famine
     dependencies = {"kino"},
     pools = { ["adelmod_adelmod_jokers"] = true, ["adelmod_adelmod_demons"] = true },
     soul_pos = {
-        x = 8,
-        y = 5
+        x = 0,
+        y = 6
     },
     in_pool = function(self, args)
         return (

@@ -15,7 +15,7 @@ SMODS.Joker{ --No mod for you
         }
     },
     pos = {
-        x = 4,
+        x = 6,
         y = 7
     },
     display_size = {

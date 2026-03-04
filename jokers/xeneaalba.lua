@@ -16,7 +16,7 @@ SMODS.Joker{ --Xenea Alba
         }
     },
     pos = {
-        x = 7,
+        x = 9,
         y = 6
     },
     display_size = {

@@ -1,22 +1,22 @@
 
-SMODS.Joker{ --Ren Nishikinomiya
-    key = "rennishikinomiya",
+SMODS.Joker{ --Monster Musume
+    key = "monstermusume",
     config = {
         extra = {
         }
     },
     loc_txt = {
-        ['name'] = 'Ren Nishikinomiya',
+        ['name'] = 'Monster Musume',
         ['text'] = {
-            [1] = 'Prevents {C:attention}Horror Cards{} from {C:red}awakening{}.'
+            [1] = 'A {C:blue}custom{} joker with {C:red}unique{} effects.'
         },
         ['unlock'] = {
             [1] = 'Unlocked by default.'
         }
     },
     pos = {
-        x = 2,
-        y = 7
+        x = 4,
+        y = 5
     },
     display_size = {
         w = 71 * 1, 
@@ -30,6 +30,5 @@ SMODS.Joker{ --Ren Nishikinomiya
     unlocked = true,
     discovered = true,
     atlas = 'CustomJokers',
-    dependencies = {"kino"},
     pools = { ["adelmod_adelmod_jokers"] = true }
 }

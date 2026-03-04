@@ -15,7 +15,7 @@ SMODS.Joker{ --Tentacle Monster
         }
     },
     pos = {
-        x = 3,
+        x = 5,
         y = 7
     },
     display_size = {

@@ -16,7 +16,7 @@ SMODS.Joker{ --Baphin
         }
     },
     pos = {
-        x = 4,
+        x = 6,
         y = 6
     },
     display_size = {

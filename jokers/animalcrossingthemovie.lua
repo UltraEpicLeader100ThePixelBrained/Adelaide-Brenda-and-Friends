@@ -16,7 +16,7 @@ SMODS.Joker{ --Animal Crossing: The Movie
         }
     },
     pos = {
-        x = 3,
+        x = 5,
         y = 5
     },
     display_size = {
