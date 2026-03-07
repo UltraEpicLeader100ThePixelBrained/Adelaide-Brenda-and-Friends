@@ -7,7 +7,7 @@ SMODS.Back {
     loc_txt = {
         name = 'Mushroom Deck',
         text = {
-            [1] = 'Start with a deck full of NOTHING but {C:attention}Brick Blocks{}.'
+            [1] = 'Start with 52 {C:attention}Brick Blocks{}.'
         },
     },
     unlocked = true,

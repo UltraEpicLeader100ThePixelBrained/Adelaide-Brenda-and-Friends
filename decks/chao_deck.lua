@@ -7,7 +7,7 @@ SMODS.Back {
     loc_txt = {
         name = 'Chao Deck',
         text = {
-            [1] = 'Start with a random {C:attention}Monitor{}'
+            [1] = 'Start with a random {C:attention}Monitor{}.'
         },
     },
     unlocked = true,

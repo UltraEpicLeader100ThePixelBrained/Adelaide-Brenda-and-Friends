@@ -7,7 +7,8 @@ SMODS.Back {
     loc_txt = {
         name = 'Neo Silver Deck',
         text = {
-            [1] = 'Start with a random {C:attention}Joker{} & a random {C:attention}Consumable{}.'
+            [1] = 'Start with a random {C:attention}Joker{}',
+            [2] = '& a random {C:attention}Consumable{}.'
         },
     },
     unlocked = true,
