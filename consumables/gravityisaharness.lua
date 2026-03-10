@@ -5,13 +5,13 @@ SMODS.Consumable {
     pos = { x = 3, y = 0 },
     config = { 
         extra = {
-            dollars0 = 5   
+            dollars0 = 2   
         } 
     },
     loc_txt = {
         name = 'Artificial Gravity',
         text = {
-            [1] = 'Flips all of your jokers and gives you {C:money}x$5{} before flipping them back over.'
+            [1] = 'Flips all of your jokers and gives you {C:money}x$2{} before flipping them back over.'
         }
     },
     cost = 3,
@@ -33,9 +33,9 @@ SMODS.Consumable {
             func = function()
                 
                 local current_dollars = G.GAME.dollars
-                local target_dollars = G.GAME.dollars * 5
+                local target_dollars = G.GAME.dollars * 2
                 local dollar_value = target_dollars - current_dollars
-                card_eval_status_text(used_card, 'extra', nil, nil, nil, {message = "X"..tostring(5).." $", colour = G.C.RED})
+                card_eval_status_text(used_card, 'extra', nil, nil, nil, {message = "X"..tostring(2).." $", colour = G.C.RED})
                 ease_dollars(dollar_value, true)
                 return true
             end
