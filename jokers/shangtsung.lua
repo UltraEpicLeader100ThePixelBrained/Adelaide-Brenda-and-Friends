@@ -23,7 +23,7 @@ SMODS.Joker{ --Shang Tsung
         h = 95 * 1
     },
     cost = 20,
-    rarity = 4,
+    rarity = "finity_showdown",
     blueprint_compat = true,
     eternal_compat = true,
     perishable_compat = true,
