@@ -18,7 +18,7 @@ SMODS.Joker{ --Needle Cookie
         }
     },
     pos = {
-        x = 3,
+        x = 4,
         y = 2
     },
     display_size = {

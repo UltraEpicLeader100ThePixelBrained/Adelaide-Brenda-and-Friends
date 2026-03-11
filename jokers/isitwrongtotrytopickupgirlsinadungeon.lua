@@ -15,7 +15,7 @@ SMODS.Joker{ --Is It Wrong to Try to Pick Up Girls in a Dungeon?
         }
     },
     pos = {
-        x = 0,
+        x = 1,
         y = 5
     },
     display_size = {

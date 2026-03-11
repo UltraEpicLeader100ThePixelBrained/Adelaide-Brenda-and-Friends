@@ -16,7 +16,7 @@ SMODS.Joker{ --Flask of Ichor
         }
     },
     pos = {
-        x = 6,
+        x = 7,
         y = 1
     },
     display_size = {

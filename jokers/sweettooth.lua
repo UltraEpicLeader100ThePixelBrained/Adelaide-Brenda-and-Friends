@@ -15,8 +15,8 @@ SMODS.Joker{ --Sweet Tooth
         }
     },
     pos = {
-        x = 9,
-        y = 3
+        x = 0,
+        y = 4
     },
     display_size = {
         w = 71 * 1, 

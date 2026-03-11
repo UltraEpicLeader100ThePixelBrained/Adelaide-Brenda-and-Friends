@@ -15,7 +15,7 @@ SMODS.Joker{ --Rosario + Vampire
         }
     },
     pos = {
-        x = 7,
+        x = 8,
         y = 4
     },
     display_size = {

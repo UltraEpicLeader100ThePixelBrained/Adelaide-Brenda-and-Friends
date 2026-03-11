@@ -15,7 +15,7 @@ SMODS.Joker{ --KILL la KILL
         }
     },
     pos = {
-        x = 6,
+        x = 7,
         y = 4
     },
     display_size = {

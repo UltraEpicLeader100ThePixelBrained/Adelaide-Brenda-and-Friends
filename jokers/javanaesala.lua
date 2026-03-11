@@ -18,7 +18,7 @@ SMODS.Joker{ --Java Naesala
         }
     },
     pos = {
-        x = 4,
+        x = 5,
         y = 6
     },
     display_size = {

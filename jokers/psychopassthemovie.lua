@@ -15,7 +15,7 @@ SMODS.Joker{ --Psycho-Pass: The Movie
         }
     },
     pos = {
-        x = 6,
+        x = 7,
         y = 3
     },
     display_size = {

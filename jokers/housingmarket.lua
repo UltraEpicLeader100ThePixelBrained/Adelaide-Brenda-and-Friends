@@ -18,7 +18,7 @@ SMODS.Joker{ --Housing Market
         }
     },
     pos = {
-        x = 4,
+        x = 5,
         y = 2
     },
     display_size = {

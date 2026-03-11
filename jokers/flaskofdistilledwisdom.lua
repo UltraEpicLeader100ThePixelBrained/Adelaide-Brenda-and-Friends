@@ -16,7 +16,7 @@ SMODS.Joker{ --Flask of Distilled Wisdom
         }
     },
     pos = {
-        x = 5,
+        x = 6,
         y = 1
     },
     display_size = {

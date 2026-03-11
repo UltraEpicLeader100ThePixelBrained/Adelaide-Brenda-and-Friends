@@ -16,7 +16,7 @@ SMODS.Joker{ --Interspecies Reviewers
         }
     },
     pos = {
-        x = 5,
+        x = 6,
         y = 4
     },
     display_size = {

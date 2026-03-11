@@ -16,7 +16,7 @@ SMODS.Joker{ --Nikki Lom
         }
     },
     pos = {
-        x = 7,
+        x = 8,
         y = 6
     },
     display_size = {

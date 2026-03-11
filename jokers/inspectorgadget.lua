@@ -17,7 +17,7 @@ SMODS.Joker{ --Inspector Gadget
         }
     },
     pos = {
-        x = 0,
+        x = 1,
         y = 3
     },
     display_size = {

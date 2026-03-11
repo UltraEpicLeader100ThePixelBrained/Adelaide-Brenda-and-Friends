@@ -15,7 +15,7 @@ SMODS.Joker{ --Gremlins 2: The New Batch
         }
     },
     pos = {
-        x = 8,
+        x = 9,
         y = 4
     },
     display_size = {

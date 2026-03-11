@@ -17,7 +17,7 @@ SMODS.Joker{ --Justice League x RWBY: Super Heroes & Huntsmen
         }
     },
     pos = {
-        x = 6,
+        x = 7,
         y = 5
     },
     display_size = {

@@ -15,7 +15,7 @@ SMODS.Joker{ --Pestilence
         }
     },
     pos = {
-        x = 7,
+        x = 8,
         y = 5
     },
     display_size = {

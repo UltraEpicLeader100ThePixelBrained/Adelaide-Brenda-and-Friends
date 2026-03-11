@@ -15,7 +15,7 @@ SMODS.Joker{ --Cowboy Bebop: The Movie
         }
     },
     pos = {
-        x = 7,
+        x = 8,
         y = 3
     },
     display_size = {

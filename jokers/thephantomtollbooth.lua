@@ -15,7 +15,7 @@ SMODS.Joker{ --The Phantom Tollbooth
         }
     },
     pos = {
-        x = 1,
+        x = 2,
         y = 5
     },
     display_size = {

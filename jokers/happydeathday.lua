@@ -15,8 +15,8 @@ SMODS.Joker{ --Happy Death Day
         }
     },
     pos = {
-        x = 9,
-        y = 4
+        x = 0,
+        y = 5
     },
     display_size = {
         w = 71 * 1, 

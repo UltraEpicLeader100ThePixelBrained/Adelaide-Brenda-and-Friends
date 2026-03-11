@@ -15,7 +15,7 @@ SMODS.Joker{ --Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesnt
         }
     },
     pos = {
-        x = 4,
+        x = 5,
         y = 4
     },
     display_size = {

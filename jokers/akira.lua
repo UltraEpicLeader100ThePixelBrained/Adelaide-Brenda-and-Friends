@@ -15,7 +15,7 @@ SMODS.Joker{ --Akira
         }
     },
     pos = {
-        x = 2,
+        x = 3,
         y = 3
     },
     display_size = {

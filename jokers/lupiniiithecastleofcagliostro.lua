@@ -15,7 +15,7 @@ SMODS.Joker{ --Lupin III: The Castle of Cagliostro
         }
     },
     pos = {
-        x = 3,
+        x = 4,
         y = 3
     },
     display_size = {

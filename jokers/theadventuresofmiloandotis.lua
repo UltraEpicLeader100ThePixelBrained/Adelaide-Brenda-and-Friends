@@ -15,8 +15,8 @@ SMODS.Joker{ --The Adventures of Milo and Otis
         }
     },
     pos = {
-        x = 9,
-        y = 2
+        x = 0,
+        y = 3
     },
     display_size = {
         w = 71 * 1, 

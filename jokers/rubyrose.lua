@@ -15,7 +15,7 @@ SMODS.Joker{ --Death
         }
     },
     pos = {
-        x = 1,
+        x = 2,
         y = 6
     },
     display_size = {

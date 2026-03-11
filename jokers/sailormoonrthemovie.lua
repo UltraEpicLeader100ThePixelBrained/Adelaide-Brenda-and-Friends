@@ -15,7 +15,7 @@ SMODS.Joker{ --Sailor Moon R: The Movie
         }
     },
     pos = {
-        x = 5,
+        x = 6,
         y = 3
     },
     display_size = {

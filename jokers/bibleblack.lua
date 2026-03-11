@@ -15,7 +15,7 @@ SMODS.Joker{ --Bible Black
         }
     },
     pos = {
-        x = 3,
+        x = 4,
         y = 4
     },
     display_size = {
