@@ -39,7 +39,7 @@ SMODS.Joker{ --Yangs Severed Arm
             G.E_MANAGER:add_event(Event({
                 func = function()
                     
-                    scored_card:set_edition("e_burnt", true)
+                    scored_card:set_edition("e_akyrs_burnt", true)
                     card_eval_status_text(scored_card, 'extra', nil, nil, nil, {message = "Scorched!", colour = G.C.ORANGE})
                     return true
                 end
