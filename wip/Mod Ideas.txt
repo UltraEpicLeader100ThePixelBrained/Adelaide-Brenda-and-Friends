@@ -63,6 +63,7 @@ No mod for you: Crashes the game if you are running this mod on mobile because F
 Shang Tsung (Crossmod with Finity): Mimics the ability of a random joker every round. Showdown Joker. 
 Homelander (Crossmod with Finity): STILL does nothing. Showdown Joker.
 The Judge (Crossmod with Finity): Gains 5X Mult per defeated blind. (Currently 0X Mult) Resets if a blind is skipped. Showdown Joker.
+Darkseid (Crossmod with Finity): Negates the effects of Parademons and gains +5 Mult for each Parademon you have. Showdown Joker.
 
 Pokémon Gen 1 Jokers
 Kotora (Crossmod with Pokermon): unsure yet. Electric type. Common Joker. (Evolves to Raitora after 3 rounds)
