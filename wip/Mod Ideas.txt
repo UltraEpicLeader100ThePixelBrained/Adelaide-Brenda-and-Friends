@@ -58,8 +58,8 @@ Ranma: +16 Mult. +8 XMult if you have Splash in play. Legendary Joker. Art chang
 Fox (Fox In The 20th Century): This Joker gains X10 Mult per friend she has. Legendary Joker.
 Raven (Fox In The 20th Century): This Joker gains X20 Mult per friend she has. Legendary Joker.
 Sloth (Fox In The 20th Century): This Joker gains X15 Mult per friend she has. Legendary Joker.
-Dr. Eggman: Every scored card either becomes: Steel, Gold, Copper (Bunco), Sci-Fi (Kino), Brass (More Fluff), Rusty (Ortalab), Bronze (TOGA), Copper (TOGA), Electrum (TOGA), Iron (TOGA), Osmium (TOGA), Silver (TOGA), Tin (TOGA). Each metallic card has an equal chance of appearing. Legendary Joker. Activation text is "Roboticized!"
 No mod for you: Crashes the game if you are running this mod on mobile because FUCK YOU. Legendary Joker.
+Dr. Eggman (Crossmod with Finity): Every scored card either becomes: Steel, Gold, Copper (Bunco), Sci-Fi (Kino), Brass (More Fluff), Rusty (Ortalab), Bronze (TOGA), Copper (TOGA), Electrum (TOGA), Iron (TOGA), Osmium (TOGA), Silver (TOGA), Tin (TOGA). Each metallic card has an equal chance of appearing. Showdown Joker. Activation text is "Roboticized!" Shows up in Shop after beating Brak Eggman.
 Shang Tsung (Crossmod with Finity): Mimics the ability of a random joker every round. Showdown Joker. 
 Homelander (Crossmod with Finity): STILL does nothing. Showdown Joker.
 The Judge (Crossmod with Finity): Gains 5X Mult per defeated blind. (Currently 0X Mult) Resets if a blind is skipped. Showdown Joker.
@@ -246,6 +246,7 @@ Homelander: ....Does nothing?! "The Boys is a dogshit series made out of spite f
 The Judge: Blind requirements go up for every skipped blind of the current run. "Hence nothing remains except for our regrets." 1+#X Base 
 Darkseid: Turns one of your jokers into a Parademon every hand. "Kneel Before DARKSEID!" 3X Base
 Rose: Eats all of your jokers. Each scored hand will make her spit a random joker back out. Fixed 1/10 chance for the spat up joker has a random Seal, Enhancement, & Edition. Digests a random eaten joker if you score two hands containing High Card and it won't be able to appear in the rest of the current run. "Probably the lizard that ate your waifus." 2X Base
+Brak Eggman: Randomly blows up either one of your consumables or joker each hand. [red]Gains Base Requirements for every Consumable and joker he blows up.[/red] "Eyahahahah!" 2X Base
 
 EX Binds (Crossmod with More Fluff)
 The Tetrimino DX: Clear 150 lines of Tetris. Each cleared line brings you closer to completing the blind. "YOU ARE GONNA PLAY TETRIS AND YOU ARE GONNA LIKE IT!" 1X Base.
