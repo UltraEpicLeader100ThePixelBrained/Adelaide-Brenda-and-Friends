@@ -220,6 +220,7 @@ Forced Feminization: Turns all Face Cards into Queens.
 Cursed Gold Dildo: Turns your entire hand into Gold Cards with Gold Stickers and ensures that the next monitor you obtain is a Golden Monitor. (You need to enable this one with the After Hours toggle in the settings.)
 Artificial Gravity: Flips all of your current hand, your jokers, and your consumables before flipping them back over. You gain +$5 for each flipped card.
 Black Magic: Turns 2 selected cards into Brick Blocks.
+Portal Gun: The leftmost scored card and the rightmost scored card swap enhancements, stickers/seals, and editions.
 
 Spectrials
 Debug Mode: Creates a Monitor of your choice.
