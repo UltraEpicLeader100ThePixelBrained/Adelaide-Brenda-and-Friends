@@ -6,7 +6,7 @@ SMODS.Joker{ --Eggman
         }
     },
     loc_txt = {
-        ['name'] = 'Eggman',
+        ['name'] = 'Dr. Eggman',
         ['text'] = {
             [1] = 'Every scored card becomes {C:attention}Roboticized.{}'
         },
@@ -23,13 +23,14 @@ SMODS.Joker{ --Eggman
         h = 95 * 1
     },
     cost = 20,
-    rarity = 4,
+    rarity = "finity_showdown",
     blueprint_compat = true,
     eternal_compat = true,
     perishable_compat = true,
     unlocked = true,
     discovered = false,
     atlas = 'CustomJokers',
+    dependencies = {"finity"},
     pools = { ["adelmod_jokers"] = true },
     in_pool = function(self, args)
         return (
