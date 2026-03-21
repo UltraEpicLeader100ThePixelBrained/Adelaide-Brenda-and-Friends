@@ -259,8 +259,16 @@ Packs
 Omochao Pack: These come in Regular, Jumbo, & Mega varieties. They contain a monitor to use as a consumable.
 Otaku Pack: Choose 1 of up to 3 Animation Jokers
 
+VHS Tapes (Crossmod with Cardsauce or if there's a VHS Tape API)
+What's Michael? (Needs Minty's mod as well): Each scored 3(Suit) gains +3 Mult and 3 aditional chips.
+Elves (1989): destroying or selling the tape crashes your game. using it also crashes your game. fuck you.
+Fantasia 2000: Each scored Fantasy Card becomes Eternal if a spell is casted.
+Sadako's Tape: Ante 7 gets it's Small and Big blinds replaced with boss blinds. Good luck!
+Goosebumps (Needs Kino as well): 2X Mult for every Horror Joker you have.
+
 Gameplay changes
 Madam Fluffy from Pokerholm gains a hidden ability. After finishing off The Pelican, Madam Fluffy will be debuffed for the next round as any Jokers that got eaten by The Pelican are returned to you while playing a sound effect from Mortal Kombat to imply Madam Fluffy tore The Pelican open before it could fuck off with the Jokers it ate.
+Wheel Of Fortune now applies editions from other mods rather than JUST the ones from the base game and you gain $5 bucks out of pity if it hits a "Nope!"
 
 Stakes
 Championship Stake: Applies ALL stakes both vanilla and modded. [edition this text and make it move like a wave]GOOD LUCK![/style this text]
