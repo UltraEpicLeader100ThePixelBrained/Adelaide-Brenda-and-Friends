@@ -8,7 +8,7 @@
   "prefix": "adelmod",
   "main_file": "main.lua",
   "version": "0.4.0.1-AFD.trol",
-  "priority": -69,
+  "priority": 69,
   "badge_colour": "fc0fc0",
   "badge_text_colour": "4f084f",
   "dependencies": [
