@@ -163,7 +163,7 @@ Xenna: Once every round You can press Use on Xenna to gain 5% of the blind but s
 Ren (Crossmod with Balatro Goes Kino): Prevents Horror Cards from awakening. Common Joker.
 Baphin and Faustine's Child: +5 Hand Size. Uncommon Joker. Can only appear if Baphin and Faustine are in play.
 Skeleton Trio: X3 Mult. X6 Mult if Mal'va is in play. Has affection towards nobody.
-Tentacle Monster: You WILL die if you sell this joker. Has affection towards everyone.
+Tentacle Monster: You WILL die if you sell this joker. Has affection towards everyone. (By DYING it insta-game overs while a voice clip saying "It's raping time!" plays.)
 
 Monitors. There are also gold monitors that can be reused once per round but gold monitors have a low chance of appearing however a gold monitor is guaranteed if you use the Cursed Gold Dildo tarot card.
 Static: Does nothing. Animated texture.
